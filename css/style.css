@@ -85,10 +85,11 @@ p {
 #hero .hero-content p {
   padding-bottom: 20px;
   line-height: 1.7em;
+  max-width: auto;
 }
 .text-lead {
   font-size: 20px;
-   max-width: auto;
+  
 }
 .btn {
   display: inline-block;
