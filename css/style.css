@@ -164,4 +164,9 @@ footer {
   background: #082032;
   height: 70px;
   overflow: auto;
+text-align: center;
+}
+.footer{
+  color: #fff;
+  padding-top: 15px;
 }
